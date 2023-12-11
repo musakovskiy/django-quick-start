@@ -10,4 +10,8 @@ redis>=2.10.6, < 3  # pyup: < 3 # https://github.com/antirez/redis
 django  # pyup: < 2.1  # https://www.djangoproject.com/
 django-environ==0.4.5  # https://github.com/joke2k/django-environ
 
+# Django REST Framework
+djangorestframework  # https://github.com/encode/django-rest-framework
+coreapi  # https://github.com/core-api/python-client
+
 
